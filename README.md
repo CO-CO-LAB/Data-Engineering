@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @CO-CO-LAB
-- 👀 I’m interested in making friends, so feel free to say hi!
+- 👀 I’m interested in algorithms and applied mathematics.😄
 - 🌱 I’m currently learning whatever I find interesting and fulfills my curiosity.
 - 💞️ I’m looking to collaborate on ML and Data related projects.
 - 📫 How to reach me: narges.sok@gmail.com
-- 😄 Pronouns: COCO
+- 😄 Pronouns: CO-CO
 - ⚡ Fun fact: Despite my belief that code is code, my favorite programming language is Prolog.
 
 <!---
