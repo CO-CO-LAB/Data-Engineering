@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on data-related projects.
 - 📫 How to reach me: narges.sok@gmail.com
 - 😄 Pronouns: CO-CO
-- ⚡ Fun fact: I'm George, George Costanza(as in Seinfeld)
+- ⚡ I am Jerry, Jerry Sienfeld! Do not hesitate to reach out and say, Hi 😄
 
 <!---
 CO-CO-LAB/CO-CO-LAB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
