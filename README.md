@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CO-CO-LAB
-- 👀 I’m interested in algorithms and applied mathematics.😄
+- 👀 I’m interested in Data, Algorithms and mathematics.😄
 - 🌱 I’m currently learning Data Analytics.
 - 💞️ I’m looking to collaborate on data-related projects.
 - 📫 How to reach me: narges.sok@gmail.com
